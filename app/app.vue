@@ -30,11 +30,11 @@
     </header>
 
     <!-- Hero Section -->
-    <section class="relative overflow-hidden bg-gradient-to-br from-blue-600 via-blue-700 to-blue-800 text-white py-20">
+    <section class="relative overflow-hidden bg-gradient-to-br from-fuchsia-700 via-purple-800 to-violet-900 text-white py-20">
       <!-- Decorative neon background effects -->
       <div aria-hidden="true" class="absolute inset-0 pointer-events-none select-none">
-        <div class="absolute -top-24 -left-24 w-80 h-80 rounded-full bg-fuchsia-500 opacity-30 blur-3xl mix-blend-screen"></div>
-        <div class="absolute -bottom-24 -right-24 w-96 h-96 rounded-full bg-emerald-400 opacity-30 blur-3xl mix-blend-screen"></div>
+        <div class="absolute -top-24 -left-24 w-80 h-80 rounded-full bg-fuchsia-400 opacity-30 blur-3xl mix-blend-screen"></div>
+        <div class="absolute -bottom-24 -right-24 w-96 h-96 rounded-full bg-violet-400 opacity-30 blur-3xl mix-blend-screen"></div>
       </div>
       <div class="max-w-6xl mx-auto px-4 text-center">
         <h2 class="text-4xl md:text-6xl font-bold mb-6">
