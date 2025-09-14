@@ -30,7 +30,12 @@
     </header>
 
     <!-- Hero Section -->
-    <section class="bg-gradient-to-br from-blue-600 via-blue-700 to-blue-800 text-white py-20">
+    <section class="relative overflow-hidden bg-gradient-to-br from-blue-600 via-blue-700 to-blue-800 text-white py-20">
+      <!-- Decorative neon background effects -->
+      <div aria-hidden="true" class="absolute inset-0 pointer-events-none select-none">
+        <div class="absolute -top-24 -left-24 w-80 h-80 rounded-full bg-fuchsia-500 opacity-30 blur-3xl mix-blend-screen"></div>
+        <div class="absolute -bottom-24 -right-24 w-96 h-96 rounded-full bg-emerald-400 opacity-30 blur-3xl mix-blend-screen"></div>
+      </div>
       <div class="max-w-6xl mx-auto px-4 text-center">
         <h2 class="text-4xl md:text-6xl font-bold mb-6">
           Masz zepsuty laptop?
@@ -76,19 +81,7 @@
             <p class="text-blue-600 font-semibold">od 150 zł</p>
           </div>
 
-          <!-- Service 2 -->
-          <div class="bg-gray-50 rounded-xl p-6 hover:shadow-lg transition-shadow">
-            <div class="w-12 h-12 bg-blue-600 rounded-lg flex items-center justify-center mb-4">
-              <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
-                <path d="M3 4a1 1 0 011-1h12a1 1 0 011 1v2a1 1 0 01-1 1H4a1 1 0 01-1-1V4zM3 10a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H4a1 1 0 01-1-1v-6zM14 9a1 1 0 00-1 1v6a1 1 0 001 1h2a1 1 0 001-1v-6a1 1 0 00-1-1h-2z"/>
-              </svg>
-            </div>
-            <h3 class="text-xl font-semibold text-gray-900 mb-2">Wymiana układów BGA (GPU/CPU)</h3>
-            <p class="text-gray-600 mb-4">
-              Zaawansowana naprawa płyt głównych, wymiana chipów graficznych i procesorów w technologii BGA.
-            </p>
-            <p class="text-blue-600 font-semibold">od 300 zł</p>
-          </div>
+          <!-- Service 2 removed per client request -->
 
           <!-- Service 3 -->
           <div class="bg-gray-50 rounded-xl p-6 hover:shadow-lg transition-shadow">
@@ -127,9 +120,9 @@
                 <path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/>
               </svg>
             </div>
-            <h3 class="text-xl font-semibold text-gray-900 mb-2">Reballing i mikrolutowanie</h3>
+            <h3 class="text-xl font-semibold text-gray-900 mb-2">Reballing i lutowanie</h3>
             <p class="text-gray-600 mb-4">
-              Zaawansowane techniki lutownicze - reballing chipów BGA i precyzyjne mikrolutowanie elementów SMD.
+              Zaawansowane techniki lutownicze - reballing chipów BGA i precyzyjne lutowanie elementów SMD.
             </p>
             <p class="text-blue-600 font-semibold">od 250 zł</p>
           </div>
@@ -382,7 +375,7 @@
             <h3 class="font-semibold text-lg mb-4">Usługi</h3>
             <ul class="space-y-2 text-gray-300">
               <li>Naprawa po zalaniu</li>
-              <li>Wymiana układów BGA</li>
+              <li>Reballing i lutowanie</li>
               <li>Reballing chipów</li>
               <li>Skup laptopów na części</li>
             </ul>
