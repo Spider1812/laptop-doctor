@@ -323,7 +323,7 @@
                 </div>
                 <div>
                   <h3 class="text-lg font-semibold text-gray-900">Lokalizacja</h3>
-                  <p class="text-gray-600">[Twoja dzielnica], Białoruś</p>
+                  <p class="text-gray-600">Warszawa, Polska</p>
                   <p class="text-sm text-gray-500">Tylko odbiór w serwisie</p>
                 </div>
               </div>
@@ -367,7 +367,7 @@
               <span class="font-bold">Serwis Yury</span>
             </div>
             <p class="text-gray-300 mb-4">
-              Profesjonalny serwis laptopów i komputerów w Białorusi. Specjalizacja w trudnych naprawach.
+              Profesjonalny serwis laptopów i komputerów w Warszawie. Specjalizacja w trudnych naprawach.
             </p>
           </div>
           
@@ -386,7 +386,7 @@
             <div class="space-y-2 text-gray-300">
               <p>📞 +48 123 456 789</p>
               <p>📧 yury@laptops.pl</p>
-              <p>📍 Białoruś</p>
+              <p>📍 Warszawa, Polska</p>
             </div>
           </div>
         </div>
