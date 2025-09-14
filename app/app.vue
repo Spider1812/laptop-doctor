@@ -7,7 +7,7 @@
       <div class="max-w-6xl mx-auto px-4 py-4">
         <div class="flex justify-between items-center">
           <div class="flex items-center space-x-2">
-            <div class="w-10 h-10 bg-blue-600 rounded-lg flex items-center justify-center">
+            <div class="w-10 h-10 bg-purple-600 rounded-lg flex items-center justify-center">
               <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M3 4a1 1 0 011-1h12a1 1 0 011 1v2a1 1 0 01-1 1H4a1 1 0 01-1-1V4zM3 10a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H4a1 1 0 01-1-1v-6zM14 9a1 1 0 00-1 1v6a1 1 0 001 1h2a1 1 0 001-1v-6a1 1 0 00-1-1h-2z"/>
               </svg>
@@ -18,10 +18,10 @@
             </div>
           </div>
           <div class="hidden md:flex items-center space-x-6">
-            <a href="#uslugi" class="text-gray-700 hover:text-blue-600">Usługi</a>
-            <a href="#skupka" class="text-gray-700 hover:text-blue-600">Skup laptopów</a>
-            <a href="#kontakt" class="text-gray-700 hover:text-blue-600">Kontakt</a>
-            <a href="tel:+48123456789" class="bg-blue-600 text-white px-4 py-2 rounded-lg font-semibold hover:bg-blue-700">
+            <a href="#uslugi" class="text-gray-700 hover:text-purple-600">Usługi</a>
+            <a href="#skupka" class="text-gray-700 hover:text-purple-600">Skup laptopów</a>
+            <a href="#kontakt" class="text-gray-700 hover:text-purple-600">Kontakt</a>
+            <a href="tel:+48123456789" class="bg-purple-600 text-white px-4 py-2 rounded-lg font-semibold hover:bg-purple-700">
               Zadzwoń teraz
             </a>
           </div>
@@ -40,14 +40,14 @@
         <h2 class="text-4xl md:text-6xl font-bold mb-6">
           Masz zepsuty laptop?
         </h2>
-        <p class="text-xl md:text-2xl text-blue-100 mb-8 max-w-3xl mx-auto">
+        <p class="text-xl md:text-2xl text-purple-100 mb-8 max-w-3xl mx-auto">
           Profesjonalnie naprawiam laptopy i komputery stacjonarne. Specjalizuję się w trudnych przypadkach - zalania, wymiana płyt głównych, reballing BGA.
         </p>
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
-          <a href="#kontakt" class="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-50 transition-colors">
+          <a href="#kontakt" class="bg-white text-purple-600 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-50 transition-colors">
             Bezpłatna wycena
           </a>
-          <a href="tel:+48123456789" class="border-2 border-white text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-white hover:text-blue-600 transition-colors">
+          <a href="tel:+48123456789" class="border-2 border-white text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-white hover:text-purple-600 transition-colors">
             📞 Zadzwoń od razu
           </a>
         </div>
@@ -69,7 +69,7 @@
         <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           <!-- Service 1 -->
           <div class="bg-gray-50 rounded-xl p-6 hover:shadow-lg transition-shadow">
-            <div class="w-12 h-12 bg-blue-600 rounded-lg flex items-center justify-center mb-4">
+            <div class="w-12 h-12 bg-purple-600 rounded-lg flex items-center justify-center mb-4">
               <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M13 6a3 3 0 11-6 0 3 3 0 016 0zM18 8a2 2 0 11-4 0 2 2 0 014 0zM14 15a4 4 0 00-8 0v3h8v-3z"/>
               </svg>
@@ -78,14 +78,14 @@
             <p class="text-gray-600 mb-4">
               Profesjonalne czyszczenie i naprawa laptopów po kontakcie z wodą, kawą lub innymi płynami.
             </p>
-            <p class="text-blue-600 font-semibold">od 150 zł</p>
+            <p class="text-purple-600 font-semibold">od 150 zł</p>
           </div>
 
           <!-- Service 2 removed per client request -->
 
           <!-- Service 3 -->
           <div class="bg-gray-50 rounded-xl p-6 hover:shadow-lg transition-shadow">
-            <div class="w-12 h-12 bg-blue-600 rounded-lg flex items-center justify-center mb-4">
+            <div class="w-12 h-12 bg-purple-600 rounded-lg flex items-center justify-center mb-4">
               <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
               </svg>
@@ -94,12 +94,12 @@
             <p class="text-gray-600 mb-4">
               Profesjonalna diagnostyka i naprawa zwarć w układach elektronicznych laptopów.
             </p>
-            <p class="text-blue-600 font-semibold">od 100 zł</p>
+            <p class="text-purple-600 font-semibold">od 100 zł</p>
           </div>
 
           <!-- Service 4 -->
           <div class="bg-gray-50 rounded-xl p-6 hover:shadow-lg transition-shadow">
-            <div class="w-12 h-12 bg-blue-600 rounded-lg flex items-center justify-center mb-4">
+            <div class="w-12 h-12 bg-purple-600 rounded-lg flex items-center justify-center mb-4">
               <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M4 3a2 2 0 100 4h12a2 2 0 100-4H4z"/>
                 <path fill-rule="evenodd" d="M3 8a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"/>
@@ -109,12 +109,12 @@
             <p class="text-gray-600 mb-4">
               Naprawa płyt głównych, które nie wykazują oznak życia - diagnostyka i przywracanie funkcjonalności.
             </p>
-            <p class="text-blue-600 font-semibold">od 200 zł</p>
+            <p class="text-purple-600 font-semibold">od 200 zł</p>
           </div>
 
           <!-- Service 5 -->
           <div class="bg-gray-50 rounded-xl p-6 hover:shadow-lg transition-shadow">
-            <div class="w-12 h-12 bg-blue-600 rounded-lg flex items-center justify-center mb-4">
+            <div class="w-12 h-12 bg-purple-600 rounded-lg flex items-center justify-center mb-4">
               <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M10 12a2 2 0 100-4 2 2 0 000 4z"/>
                 <path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"/>
@@ -124,12 +124,12 @@
             <p class="text-gray-600 mb-4">
               Zaawansowane techniki lutownicze - reballing chipów BGA i precyzyjne lutowanie elementów SMD.
             </p>
-            <p class="text-blue-600 font-semibold">od 250 zł</p>
+            <p class="text-purple-600 font-semibold">od 250 zł</p>
           </div>
 
           <!-- Service 6 -->
           <div class="bg-gray-50 rounded-xl p-6 hover:shadow-lg transition-shadow">
-            <div class="w-12 h-12 bg-blue-600 rounded-lg flex items-center justify-center mb-4">
+            <div class="w-12 h-12 bg-purple-600 rounded-lg flex items-center justify-center mb-4">
               <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M3 4a1 1 0 011-1h12a1 1 0 011 1v2a1 1 0 01-1 1H4a1 1 0 01-1-1V4zM3 10a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H4a1 1 0 01-1-1v-6zM14 9a1 1 0 00-1 1v6a1 1 0 001 1h2a1 1 0 001-1v-6a1 1 0 00-1-1h-2z"/>
               </svg>
@@ -138,19 +138,19 @@
             <p class="text-gray-600 mb-4">
               Naprawa komputerów stacjonarnych - diagnostyka, wymiana podzespołów, optymalizacja wydajności.
             </p>
-            <p class="text-blue-600 font-semibold">od 80 zł</p>
+            <p class="text-purple-600 font-semibold">od 80 zł</p>
           </div>
         </div>
 
         <!-- Important Notice -->
-        <div class="mt-16 bg-blue-50 border border-blue-200 rounded-xl p-6">
+        <div class="mt-16 bg-purple-50 border border-purple-200 rounded-xl p-6">
           <div class="flex items-start space-x-3">
-            <svg class="w-6 h-6 text-blue-600 mt-1" fill="currentColor" viewBox="0 0 20 20">
+            <svg class="w-6 h-6 text-purple-600 mt-1" fill="currentColor" viewBox="0 0 20 20">
               <path fill-rule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clip-rule="evenodd"/>
             </svg>
             <div>
-              <h3 class="text-lg font-semibold text-blue-800 mb-2">Ważne informacje</h3>
-              <ul class="space-y-2 text-blue-700">
+              <h3 class="text-lg font-semibold text-purple-800 mb-2">Ważne informacje</h3>
+              <ul class="space-y-2 text-purple-700">
                 <li>• <strong>Tylko laptopy i komputery</strong> - nie naprawiam telefonów ani tabletów</li>
                 <li>• <strong>Bez wizyt domowych</strong> - sprzęt należy przywieźć do serwisu</li>
                 <li>• <strong>Uczciwa wycena</strong> - nie obiecuję naprawy za grosze</li>
@@ -183,7 +183,7 @@
               <textarea
                 id="description"
                 rows="4"
-                class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 resize-none"
+                class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-purple-500 resize-none"
                 placeholder="Opisz model laptopa, uszkodzenia, stan wizualny, co jeszcze działa..."
                 required
               ></textarea>
@@ -196,7 +196,7 @@
               <input
                 type="email"
                 id="email"
-                class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-purple-500"
                 placeholder="twoj@email.pl"
                 required
               />
@@ -210,7 +210,7 @@
                 type="number"
                 id="price"
                 min="0"
-                class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-purple-500"
                 placeholder="np. 200"
                 required
               />
@@ -221,7 +221,7 @@
 
             <button
               type="submit"
-              class="w-full bg-blue-600 text-white py-4 px-6 rounded-lg font-semibold text-lg hover:bg-blue-700 transition-colors"
+              class="w-full bg-purple-600 text-white py-4 px-6 rounded-lg font-semibold text-lg hover:bg-purple-700 transition-colors"
             >
               Wyślij zapytanie o skup
             </button>
@@ -252,7 +252,7 @@
                 <input
                   type="text"
                   id="contact-name"
-                  class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                  class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-purple-500"
                   placeholder="Twoje imię"
                 />
               </div>
@@ -261,7 +261,7 @@
                 <input
                   type="email"
                   id="contact-email"
-                  class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                  class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-purple-500"
                   placeholder="twoj@email.pl"
                   required
                 />
@@ -271,14 +271,14 @@
                 <textarea
                   id="contact-message"
                   rows="4"
-                  class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 resize-none"
+                  class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-purple-500 resize-none"
                   placeholder="Opisz problem z laptopem..."
                   required
                 ></textarea>
               </div>
               <button
                 type="submit"
-                class="w-full bg-blue-600 text-white py-3 px-6 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+                class="w-full bg-purple-600 text-white py-3 px-6 rounded-lg font-semibold hover:bg-purple-700 transition-colors"
               >
                 Wyślij wiadomość
               </button>
@@ -289,7 +289,7 @@
           <div>
             <div class="space-y-6">
               <div class="flex items-start space-x-4">
-                <div class="w-12 h-12 bg-blue-600 rounded-lg flex items-center justify-center flex-shrink-0">
+                <div class="w-12 h-12 bg-purple-600 rounded-lg flex items-center justify-center flex-shrink-0">
                   <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
                     <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z"/>
                   </svg>
@@ -302,7 +302,7 @@
               </div>
 
               <div class="flex items-start space-x-4">
-                <div class="w-12 h-12 bg-blue-600 rounded-lg flex items-center justify-center flex-shrink-0">
+                <div class="w-12 h-12 bg-purple-600 rounded-lg flex items-center justify-center flex-shrink-0">
                   <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
                     <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z"/>
                     <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z"/>
@@ -316,7 +316,7 @@
               </div>
 
               <div class="flex items-start space-x-4">
-                <div class="w-12 h-12 bg-blue-600 rounded-lg flex items-center justify-center flex-shrink-0">
+                <div class="w-12 h-12 bg-purple-600 rounded-lg flex items-center justify-center flex-shrink-0">
                   <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
                     <path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/>
                   </svg>
@@ -359,7 +359,7 @@
         <div class="grid md:grid-cols-3 gap-8">
           <div>
             <div class="flex items-center space-x-2 mb-4">
-              <div class="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
+              <div class="w-8 h-8 bg-purple-600 rounded-lg flex items-center justify-center">
                 <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 20 20">
                   <path d="M3 4a1 1 0 011-1h12a1 1 0 011 1v2a1 1 0 01-1 1H4a1 1 0 01-1-1V4zM3 10a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H4a1 1 0 01-1-1v-6zM14 9a1 1 0 00-1 1v6a1 1 0 001 1h2a1 1 0 001-1v-6a1 1 0 00-1-1h-2z"/>
                 </svg>
