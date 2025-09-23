@@ -19,6 +19,7 @@
           </div>
           <div class="hidden md:flex items-center space-x-6">
             <a href="#uslugi" class="text-gray-700 hover:text-purple-600">Usługi</a>
+            <a href="#konsole" class="text-gray-700 hover:text-purple-600">Konsole</a>
             <a href="#skupka" class="text-gray-700 hover:text-purple-600">Skup laptopów</a>
             <a href="#kontakt" class="text-gray-700 hover:text-purple-600">Kontakt</a>
             <a href="tel:+48123456789" class="bg-purple-600 text-white px-4 py-2 rounded-lg font-semibold hover:bg-purple-700">
@@ -41,7 +42,7 @@
           Masz zepsuty laptop?
         </h2>
         <p class="text-xl md:text-2xl text-purple-100 mb-8 max-w-3xl mx-auto">
-          Profesjonalnie naprawiam laptopy i komputery stacjonarne. Specjalizuję się w trudnych przypadkach - zalania, wymiana płyt głównych, reballing BGA.
+          zajmuję się trudnymi naprawami: Naprawa po zalaniu, Wymiana układów BGA (GPU/CPU), Szukanie zwarć, Reanimacja „martwych” płyt głównych, Reballing.
         </p>
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
           <a href="#kontakt" class="bg-white text-purple-600 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-50 transition-colors">
@@ -131,6 +132,20 @@
           <div class="bg-gray-50 rounded-xl p-6 hover:shadow-lg transition-shadow">
             <div class="w-12 h-12 bg-purple-600 rounded-lg flex items-center justify-center mb-4">
               <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
+                <path d="M4 4a2 2 0 012-2h8a2 2 0 012 2v12a2 2 0 01-2 2H6a2 2 0 01-2-2V4zm9 5a1 1 0 100-2 1 1 0 000 2zM7 9a1 1 0 102 0 1 1 0 00-2 0zm0 4a1 1 0 102 0 1 1 0 00-2 0zm4 0a1 1 0 102 0 1 1 0 00-2 0z"/>
+              </svg>
+            </div>
+            <h3 class="text-xl font-semibold text-gray-900 mb-2">Konsole PlayStation i Xbox</h3>
+            <p class="text-gray-600 mb-4">
+              Czyszczenie, serwis przegrzewających się konsol, wymiana wyrwanych portów HDMI i USB oraz naprawy kontrolerów.
+            </p>
+            <p class="text-purple-600 font-semibold">wycena indywidualna</p>
+          </div>
+
+          <!-- Service 6 -->
+          <div class="bg-gray-50 rounded-xl p-6 hover:shadow-lg transition-shadow">
+            <div class="w-12 h-12 bg-purple-600 rounded-lg flex items-center justify-center mb-4">
+              <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M3 4a1 1 0 011-1h12a1 1 0 011 1v2a1 1 0 01-1 1H4a1 1 0 01-1-1V4zM3 10a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H4a1 1 0 01-1-1v-6zM14 9a1 1 0 00-1 1v6a1 1 0 001 1h2a1 1 0 001-1v-6a1 1 0 00-1-1h-2z"/>
               </svg>
             </div>
@@ -151,13 +166,55 @@
             <div>
               <h3 class="text-lg font-semibold text-purple-800 mb-2">Ważne informacje</h3>
               <ul class="space-y-2 text-purple-700">
-                <li>• <strong>Tylko laptopy i komputery</strong> - nie naprawiam telefonów ani tabletów</li>
+                <li>• <strong>Naprawiam laptopy, komputery i konsole</strong> - telefonów ani tabletów nie przyjmuję</li>
                 <li>• <strong>Bez wizyt domowych</strong> - sprzęt należy przywieźć do serwisu</li>
                 <li>• <strong>Uczciwa wycena</strong> - nie obiecuję naprawy za grosze</li>
                 <li>• <strong>Profesjonalne podejście</strong> - dokładna diagnostyka przed każdą naprawą</li>
               </ul>
             </div>
           </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Console Repair Section -->
+    <section id="konsole" class="py-20 bg-gradient-to-b from-gray-900 via-gray-800 to-gray-900 text-white">
+      <div class="max-w-5xl mx-auto px-4">
+        <div class="text-center mb-12">
+          <h2 class="text-3xl md:text-4xl font-bold mb-4">Naprawa konsol PlayStation i Xbox</h2>
+          <p class="text-lg text-gray-200 max-w-3xl mx-auto">
+            Bez względu na to, czy konsola nie włącza się, zacina w trakcie gry, nie czyta płyt Blu-ray czy ma problem z wyświetlaniem obrazu, możesz liczyć na moje wieloletnie doświadczenie i zaangażowanie.
+          </p>
+        </div>
+
+        <div class="grid md:grid-cols-2 gap-8">
+          <div class="bg-gray-800/80 border border-gray-700 rounded-xl p-6 backdrop-blur">
+            <h3 class="text-xl font-semibold mb-4">Najczęstsze usterki</h3>
+            <ul class="space-y-3 text-gray-200">
+              <li>• Uszkodzone porty HDMI i USB, wyrwane złącza</li>
+              <li>• Problemy z odczytem płyt i napędem Blu-ray</li>
+              <li>• Drifting, niesprawne przyciski i analogi w DualShock 4 / DualSense 5</li>
+              <li>• Przegrzewanie, brak chłodzenia, potrzeba wymiany pasty termoprzewodzącej</li>
+              <li>• Usterki płyt głównych: układy BGA, APU, sekcja zasilania</li>
+            </ul>
+          </div>
+
+          <div class="bg-gray-800/80 border border-gray-700 rounded-xl p-6 backdrop-blur">
+            <h3 class="text-xl font-semibold mb-4">Dodatkowe usługi</h3>
+            <ul class="space-y-3 text-gray-200">
+              <li>• Konserwacja, czyszczenie wnętrza i wymiana wentylatora</li>
+              <li>• Naprawa obudowy po zalaniu lub uszkodzeniu mechanicznym</li>
+              <li>• Aktualizacja oprogramowania i naprawa błędów systemowych</li>
+              <li>• Wymiana standardowych analogów na modele z efektem Halla</li>
+              <li>• Indywidualne modyfikacje i diagnostyka na miejscu</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="mt-12 text-center">
+          <a href="#kontakt" class="inline-flex items-center justify-center bg-purple-500 hover:bg-purple-600 text-white font-semibold px-8 py-4 rounded-lg transition-colors">
+            Umów naprawę konsoli
+          </a>
         </div>
       </div>
     </section>
