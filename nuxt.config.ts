@@ -5,6 +5,12 @@ export default defineNuxtConfig({
   app: {
     baseURL: '/',
   },
+  css: [
+    '@/assets/tailwind.css',
+  ],
+  nitro: {
+    preset: 'github-pages',
+  },
 
   modules: [
     '@nuxt/content',
